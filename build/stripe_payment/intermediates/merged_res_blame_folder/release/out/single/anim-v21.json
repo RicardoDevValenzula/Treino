@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\d8a34ffc2388b199588ebf70f21cd6c3\\transformed\\material-1.3.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\anim-v21\\mtrl_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\d8a34ffc2388b199588ebf70f21cd6c3\\transformed\\material-1.3.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\anim-v21\\fragment_fast_out_extra_slow_in.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\330dbfca7148bf48a18f335d08d3d20d\\transformed\\fragment-1.3.4\\res\\anim-v21\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\d8a34ffc2388b199588ebf70f21cd6c3\\transformed\\material-1.3.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\anim-v21\\mtrl_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\d8a34ffc2388b199588ebf70f21cd6c3\\transformed\\material-1.3.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_out.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

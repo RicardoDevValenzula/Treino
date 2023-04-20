@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_googlepay_button_content.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_googlepay_button_content.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_jcb.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_jcb.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_unknown.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_unknown.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_discover.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_discover.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_amex.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_amex.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_add.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_add.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\ic_arrow.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\ffdd33662da4f036a5639dff913c9648\\transformed\\jetified-stripe-3ds2-android-5.3.1\\res\\drawable-night-v8\\ic_arrow.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_mastercard.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_mastercard.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_dinersclub.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_dinersclub.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_unionpay.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_unionpay.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_googlepay_button_overlay.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_cvc.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_cvc.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v8\\stripe_ic_paymentsheet_card_visa.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v8\\stripe_ic_paymentsheet_card_visa.xml"
+    }
+]

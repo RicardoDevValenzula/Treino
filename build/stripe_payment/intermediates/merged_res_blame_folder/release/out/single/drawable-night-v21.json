@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v21\\stripe_googlepay_button_background.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v21\\stripe_googlepay_button_background.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-night-v21\\stripe_googlepay_button_no_shadow_background.xml",
+        "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\b247206aba87788b65b0b76ecb61cb01\\transformed\\jetified-payments-core-16.10.0\\res\\drawable-night-v21\\stripe_googlepay_button_no_shadow_background.xml"
+    }
+]

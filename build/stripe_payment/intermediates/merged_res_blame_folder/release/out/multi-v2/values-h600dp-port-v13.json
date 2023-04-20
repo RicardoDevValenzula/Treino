@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h600dp-port-v13\\values-h600dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\d8a34ffc2388b199588ebf70f21cd6c3\\transformed\\material-1.3.0\\res\\values-h600dp-port-v13\\values-h600dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\stripe_payment\\intermediates\\res\\merged\\release\\values-h600dp-port-v13\\values-h600dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\d8a34ffc2388b199588ebf70f21cd6c3\\transformed\\material-1.3.0\\res\\values-h600dp-port-v13\\values-h600dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

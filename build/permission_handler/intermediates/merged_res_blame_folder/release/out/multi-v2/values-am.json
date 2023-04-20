@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\permission_handler\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\8a1747f09261ffe18520f39c7bd74385\\transformed\\core-1.6.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Desarrollo\\IndustriaSocial\\Treino\\treino-albranch\\build\\permission_handler\\intermediates\\res\\merged\\release\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZeroK\\.gradle\\caches\\transforms-3\\8a1747f09261ffe18520f39c7bd74385\\transformed\\core-1.6.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
